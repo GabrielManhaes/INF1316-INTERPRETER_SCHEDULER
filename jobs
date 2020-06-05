@@ -1,0 +1,4 @@
+exec io_1
+exec cpu_1
+exec io_2
+exec cpu_2
